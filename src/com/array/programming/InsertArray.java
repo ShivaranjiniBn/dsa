@@ -22,7 +22,7 @@ public class InsertArray {
 
         // Print the updated array
         for (int i : arr) {
-            System.out.println(i);
+            System.out.print(i+ " ");
         }
     }
 }
